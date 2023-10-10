@@ -33,5 +33,9 @@
     "gulp-sass": "^5.0.0",
     "gulp-uglify": "^3.0.0",
     "sass": "^1.25.0"
+  },
+  "dependencies": {
+    "gm": "^1.25.0",
+    "gulp-gm": "^0.0.9"
   }
 }
