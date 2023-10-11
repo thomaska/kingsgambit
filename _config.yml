@@ -13,9 +13,9 @@ header:
  title: "King's Gambit"
  subtitle: "Vasileos Irakleiou 9, 54625, Thessaloniki, Greece"
 footer:
- name: "This is King's Gambit suite in Thessaloniki, Greece"
+ name: "King's Gambit suite in Thessaloniki, Greece"
  bio: "Welcome to the \"King's Gambit Suite\" – a sophisticated retreat in the heart of Thessaloniki! Drawing inspiration from its prestigious location on Vasileos Irakleiou Street (where \"Vasileos\" means \"King's\" in Greek), this enchanting suite combines chess-inspired elegance with a captivating design. Recently renovated, it comfortably accommodates up to four guests with a cozy double bed and a stylish sofa that transforms into an additional double bed. Enjoy modern amenities such as air conditioning, sleek TVs, and a fully equipped kitchen. Experience a sanctuary where style reigns supreme at the \"King's Gambit Suite\" in Thessaloniki's city center."
- github: "Send us an email at info@kingsgambit.info to book your stay!"
+ github: "Contact us now to book your stay!"
 web_design: "TK"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
